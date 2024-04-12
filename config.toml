@@ -64,7 +64,7 @@ theme = "raditian-free-hugo-theme"
 
   [params.logo]
     text1 = "Hyuna" # TODO: 이름 추가
-    text2 = "Park" # TODO: 성 추가
+    text2 = "Park test" # TODO: 성 추가
 
   [params.footer]
       copyright = "© All rights reserved."
