@@ -39,9 +39,9 @@ education:
   enable: true
   title: "Education"
   items: # TODO: 학력 추가
-    - university: "University of 학교명"
-      year: "[입학년도]-[졸업년도]"
-      degree: "[학위 및 전공]"
+    - university: "University of Pusan"
+      year: "[2024]-[2029]"
+      degree: "[석사 및 인공지능학과]"
 
 # projects
 projects:
