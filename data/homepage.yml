@@ -24,11 +24,7 @@ showcase:
 about:
   enable: true
   title: "Who am I?"
-  content: '<p class="lead">
-    [소개내용 1문단]
-    </p>
-    <p class="lead">
-    [소개내용 2문단]
+  content: '<p class="lead"> Introduction
     </p>' # TODO: 소개내용 추가
   button:
     icon: "icon-smile-fill"
